@@ -12,7 +12,7 @@ On the Mac where you want to import the text replacements, choose Apple menu  > 
 
 If you’re working in an app, you can also choose Edit > Substitutions > Show Substitutions, then click Text Preferences.
 
-Drag the Text unicode_completions.plist file into the Text pane.
+Drag the unicode_completions.plist file into the Text pane.
 
 
 
