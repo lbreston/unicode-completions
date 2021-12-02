@@ -14,6 +14,7 @@ If you’re working in an app, you can also choose Edit > Substitutions > Show S
 
 Drag the unicode_completions.plist file into the Text pane.
 
+for vulgar fractions to work you have to delete the binding for \1/ →  ⅟  
 
 
 
